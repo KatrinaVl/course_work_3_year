@@ -1,0 +1,8 @@
+#!/bin/bash
+rm -f parameters.yaml
+cd Files
+rm -f platform.xml > /dev/null
+rm -f deployment.xml > /dev/null
+cd ..
+
+rm -f execute

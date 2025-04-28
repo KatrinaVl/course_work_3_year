@@ -1,0 +1,2 @@
+config.measures.clean_before_write: 1
+config.measures.save_filepath: /home/ubuntu/combos_cpp_shadow_new/experiments/many_invalid/save_file.txt

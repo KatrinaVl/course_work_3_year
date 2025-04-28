@@ -1,0 +1,170 @@
+config.measures.clean_before_write: 1
+config.measures.save_filepath: /home/ubuntu/combos_cpp_shadow_new/experiments/many_invalid/save_file.txt
+Progress:   1% [                                                  
+ Workunits valid: 		0 (nan%)
+
+
+ Simulation ends in 0 h (0 sec)
+
+
+  Messages received: 		0 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 0.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.000555556 h (2 sec)
+
+
+  Messages received: 		7 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 100000000.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.00111111 h (4 sec)
+
+
+  Messages received: 		12 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 100000000.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.00166667 h (6 sec)
+
+
+  Messages received: 		17 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 100000000.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.00222222 h (8 sec)
+
+
+  Messages received: 		22 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 100000000.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.00277778 h (10 sec)
+
+
+  Messages received: 		24 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 100000000.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.00333333 h (12 sec)
+
+
+  Messages received: 		31 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 100000000.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.00388889 h (14 sec)
+
+
+  Messages received: 		32 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 100000000.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.00444444 h (16 sec)
+
+
+  Messages received: 		35 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 100000000.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.005 h (18 sec)
+
+
+  Messages received: 		37 (work requests received + results received)
+  Results success: 		0 (nan%)
+  Throughput: 			0.0 mens/s
+  Credit granted: 		0 credits
+  FLOPS in split: 		 0.0 and 100000000.0 and 7200.0 end
+
+  FLOPS average: 		0 GFLOPS
+
+]
+[F[JProgress:   1% [                                                  
+ Workunits valid: 		0 (0.0%)
+
+
+ Simulation ends in 0.00555556 h (20 sec)
+
+
+  Messages received: 		42 (work requests r

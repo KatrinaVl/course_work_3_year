@@ -1,0 +1,2 @@
+config.measures.clean_before_write: 1
+config.measures.save_filepath: /home/ekaterina/course/combos/save_file.txt

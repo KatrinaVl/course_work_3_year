@@ -1,0 +1,3 @@
+config.measures.clean_before_write: 1
+config.measures.save_filepath: /home/ekaterina/course/combos/save_file.txt
+Error while parsing YAML: invalid node; this may result from using a map iterator as a sequence iterator, or vice-versa
